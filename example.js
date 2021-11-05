@@ -14,10 +14,10 @@ const item2 = {
   name: 'some_name2',
   fileName: 'some_filename2',
   contentType: 'some_type2',
-  data: 'some_data2'
+  data: 'some_data2'         //can be binary
 };
 
-const arr = [item, item2];
+const arr = [item, item2];   //future functionality
 
 const form1 = multipart()
   .boundary(boundary)

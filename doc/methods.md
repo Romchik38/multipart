@@ -3,6 +3,7 @@
 ## boundary()
 
 Use method boundary(boundary) to add boundary
+
 **boundary** - string
 
 ```javascript

@@ -2,12 +2,14 @@
 
 You can analyze output data with method:
 
-## stringParts(ecoding)
+## stringParts(encoding)
 
 **encoding** - string:
   * 'utf8',
   * 'base64'
   * ...
+
+Default - 'utf8'
 
 ```javascript
   const multipart = require('./multipart.js');

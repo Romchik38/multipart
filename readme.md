@@ -3,7 +3,7 @@
 Will help you combine data parts for multipart/form-data
 
 The lib create only body of http message.
-You must prepare headers manualy.
+You must prepare headers manually.
 
 Simple sintax, no dependensies
 
@@ -21,4 +21,4 @@ Simple sintax, no dependensies
 
 ## Exapmle
 
-Look at this [example](example.js) to understand howit works.
+Look at this [example](example.js) to understand how lib works.
